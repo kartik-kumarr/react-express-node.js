@@ -1,9 +1,9 @@
-# PDF text summarizer
-A fully functional app to summarize PDFs and compare the output from two LLMs LLamba2 and Microsofts's Phi. 
+# A React and Express template with Node.js as server.
+A simple template with react as frontend and Node.js as backend.
 ---
 ## Requirements
 
-For development, you will need React, Node.js and Ollama as main packages.
+For development, you will need React, and Node.js as main packages.
 
 ### Node
 - #### Node installation on Windows
@@ -39,12 +39,6 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
       $ npm install
 
 ---
-
-## Install Ollama
-Follow the instructions given in the [github page](https://github.com/ollama/ollama) as per your system. Then install both LLamba2 and Phi2 using following commands:
-
-      $ ollama run llamba2
-      $ ollama run phi
 
 ## Running the project
 Go inside the main folder and then run
